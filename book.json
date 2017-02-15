@@ -1,7 +1,6 @@
 {
     "plugins": [
-        "ad",
-        "maxiang"
+        "ad"
     ],
     "pluginsConfig": {
         "theme-default": {
