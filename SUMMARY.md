@@ -1,7 +1,5 @@
 # Summary
 
-* [First Chapter](chapter1.md)
-* [Test Chapter](test-chapter.md)
+* [Night+ Tech Review - Mar. 23th](chapter1.md)
 * [Prefix](README.md)
-* sdf
 
