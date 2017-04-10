@@ -1,4 +1,4 @@
-## Story Point
+## Story Point Approach
 
 为了量化技术团队的开发迭代能力，方便团队效率优化，我们引入了敏捷开发里的一些重要概念，比如说 **Story Point，**关于Story Point的概念[**请看这里**](https://agilefaq.wordpress.com/2007/11/13/what-is-a-story-point/)。Story Point 被用作量化技术开发迭代能力的一个基础量度，但是一个完整优秀的技术团队除了有不错的基础的开发迭代能力以外，还应该具备对技术框架优化，新技术拓展，开发流程标准化以及效率优化等方面的考量。
 
